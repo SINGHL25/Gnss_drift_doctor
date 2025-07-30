@@ -1,1 +1,5 @@
-
+# ----------------- requirements.txt -----------------
+streamlit
+matplotlib
+pydeck
+pandas
